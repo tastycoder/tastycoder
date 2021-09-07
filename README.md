@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tastycoder
 - 👀 I’m interested in working with others on producing open source code that is used in online marketing.
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on, hmmm still thinking about that.
+- 🌱 I’m currently working with GPT-3.
+- 💞️ I’m looking to collaborate on, Saas Startups working with GPT-3.
 - 📫 How to reach me well here or on linkedIn.
 
 <!---
